@@ -3,7 +3,8 @@
 ### Topics
 
 - [Linux](linux/)
-- [Python]
-- [HTML]
-- [CSS]
-- [JavaScript]
+- [Python](python/)
+- [HTML](html/)
+- [CSS](css/)
+- [JavaScript](js/)
+- [Projects](projects/)
