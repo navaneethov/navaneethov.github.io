@@ -2,7 +2,7 @@
 
 ### Topics
 
-- [Linux]
+- [Linux](linux/)
 - [Python]
 - [HTML]
 - [CSS]
