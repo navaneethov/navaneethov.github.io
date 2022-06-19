@@ -2,8 +2,8 @@
 
 ### Topics
 
-- Linux
-- Python
-- HTML
-- CSS
-- JavaScript
+- [Linux]
+- [Python]
+- [HTML]
+- [CSS]
+- [JavaScript]
